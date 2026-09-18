@@ -1,0 +1,6 @@
+{
+  "name": "TRACE — Evidence Intelligence",
+  "description": "Evidence intelligence workspace to connect fragmented records, inspect relationships, and test investigation leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
